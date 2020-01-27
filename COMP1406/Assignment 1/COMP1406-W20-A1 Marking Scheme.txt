@@ -1,0 +1,19 @@
+There will be a -20% deduction for incorrect file names, non-ZIP submissions, or submissions that are not a valid IntelliJ project. Ensure you follow the specified naming scheme and submission instructions precisely.
+
+
+25 marks total
+
+Desktop, Laptop, Fridge Class - 9 marks (3 marks each):
+	Constructor has correct arguments (2 marks)
+	toString returns appropriate values (1 mark)
+
+ElectronicStore Class - 12 marks:
+	Constructor creates objects correctly (2 marks)
+	Objects are stored in instance variables - lists/arrays/maps (3 marks)
+	printStock method works properly and uses toString methods of other classes (3 marks)
+	searchStock method returns correct values (4 marks)
+		
+ElectronicStoreTester Class - 4 marks:
+	Instantiates ElectronicStore (1 mark)
+	Calls printStock method (1 mark)
+	Correctly loops search request and produces correct output (2 marks)
